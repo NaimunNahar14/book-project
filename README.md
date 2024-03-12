@@ -14,7 +14,7 @@
 ### Important Link
 <hr/>
 <li> Github: https://github.com/NaimunNahar14/book-project </li>
-<li>Live: [[https://65e33069d5105ec2b15dbf71--cerulean-paprenjak-e553fb.netlify.app/](https://benevolent-sunflower-6cecda.netlify.app/)](https://benevolent-sunflower-6cecda.netlify.app/) </li>
+<li>Live: https://benevolent-sunflower-6cecda.netlify.app/ </li>
 
 ### How to run this:
 <hr/>
